@@ -1,9 +1,8 @@
 # Tensorflow-Grad_cam
 ## Abstract
-####C AM(Class Activation Mapping)은 CNN 기반 네트워크에서 많은 클래스를 결정할 때, 시각적인 설명을 제공합니다. 여기서 말하는 Grad-CAM(Gradient-weighted CAM)은 CAM을 구할 때, "예측 이미지안의 중요한 부분을 강조하는 대략적인 지역 맵을 생산하기위한 마지막 컨볼루션 층으로 흘러가는", "타겟 클래스(캡션, 마스크도 가능)에 대한" gradient를 이용합니다.
+#### CAM(Class Activation Mapping)은 CNN 기반 네트워크에서 많은 클래스를 결정할 때, 시각적인 설명을 제공합니다. 여기서 말하는 Grad-CAM(Gradient-weighted CAM)은 CAM을 구할 때, "예측 이미지안의 중요한 부분을 강조하는 대략적인 지역 맵을 생산하기위한 마지막 컨볼루션 층으로 흘러가는", "타겟 클래스(캡션, 마스크도 가능)에 대한" gradient를 이용합니다.
 
 #### 따라서 적용할 수 있는 범위가 넓어졌습니다.
-
 #### 1) fully-connected 층이 있는 CNN (VGG)
 #### 2) 구성된 output을 사용하는 CNN (captioning)
 #### 3) multimodal inputs 이 있는 CNN (VQA) 또는 강화학습
