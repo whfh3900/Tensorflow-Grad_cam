@@ -16,6 +16,8 @@
 
 본 소스코드는 포트폴리오 용으로 작성한 것이고, 실제 코드는 https://github.com/cydonia999/Grad-CAM-in-TensorFlow 에서 확인할 수 있습니다. 현재 진행하고 있는 콘크리트 구조물 결함 검출 프로젝트에서 설명가능한 AI 기술을 접목하기 위해 관련 코드를 찾아보다가 알게 되었고, 이 코드는 따로 Training Code가 존재하지 않으며 기존의 vgg16, vgg19 모델을 사용하여 바로 결과를 확인해 볼 수 있습니다.
 
+![687474703a2f2f692e696d6775722e636f6d2f4a614762645a352e706e67](https://user-images.githubusercontent.com/48546917/72021112-9f82be00-32b0-11ea-9e3c-83e27bfae2dc.jpg)
+
 ## Install 
 - tensorflow or tensorflow-gpu
 - opencv-python
