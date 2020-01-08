@@ -35,3 +35,5 @@ https://github.com/machrisaa/tensorflow-vgg
 실행 후 결과 이미지는 Test할 이미지 경로에 저장된다.
 
 ## Results
+![제목 없음](https://user-images.githubusercontent.com/48546917/72021784-32702800-32b2-11ea-8b07-d7756c096349.jpg)
+![제목 없음s](https://user-images.githubusercontent.com/48546917/72021785-3439eb80-32b2-11ea-8dce-87a7553951a5.jpg)
